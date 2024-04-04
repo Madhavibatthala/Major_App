@@ -1,1 +1,1 @@
-# Majpr_App
+# Major_App
